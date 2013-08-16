@@ -1,0 +1,3 @@
+[submodule "util/hash"]
+	path = util/hash
+	url = https://github.com/8573/js-hash
