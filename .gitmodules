@@ -1,3 +1,6 @@
 [submodule "util/hash"]
 	path = util/hash
 	url = https://github.com/8573/js-hash
+[submodule "util/radix"]
+	path = util/radix
+	url = https://github.com/8573/web-number-radix-convertor.git
